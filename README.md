@@ -1,3 +1,7 @@
+## Overview
+
+This work was done as part of the SPE Machine Learning Challenge held in May 2022. The team consisted of Alex Lach, Priyank Dwivedi, and Markus Emsermann. We placed first in the challenge. The notebook `analysis.ipynb` contains the full work. A summary is presented below.
+
 ## Introduction
 
 The importance of Carbon Capture, Utilization, and Storage (CCUS) technology is growing as governments take more aggressive steps to manage CO2 in the atmosphere. The feasibility of capturing CO2 particularly depends on the economic viability of the project. 
